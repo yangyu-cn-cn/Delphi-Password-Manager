@@ -13,3 +13,4 @@ O código está livre para alterações, espero que alguém possa melhorá-lo e 
 
 ###
 最近又一点空闲时间，在github上看到一个密码管理的项目，正好也被记不住各种密码所困扰，便对这个项目做了一些更新。
+也顺便学习一下如何使用github
