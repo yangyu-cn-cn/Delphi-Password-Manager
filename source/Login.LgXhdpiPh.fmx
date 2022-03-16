@@ -1,0 +1,16 @@
+inherited FrmLogin_LgXhdpiPh: TFrmLogin_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited ToolBar: TToolBar
+    Size.Width = 450.000000000000000000
+    inherited Image: TImage
+      MultiResBitmap.Height = 48
+      MultiResBitmap.Width = 48
+    end
+  end
+  inherited Panel: TPanel
+    Position.Y = 655.000000000000000000
+    Size.Width = 450.000000000000000000
+  end
+end
